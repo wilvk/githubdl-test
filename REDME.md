@@ -1,2 +1,2 @@
 branch: master
-tag: none
+tag: v0.1
